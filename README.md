@@ -5,20 +5,32 @@
 **Files Descriptions:** Each Excel file corresponds to a different fast food company’s stock, identified by its ticker symbol:
 
 **DPZ** - Domino’s Pizza, Inc.
-**MCD** - McDonald's Corporation
+
+**MCD** - McDonald's Corporation.
+
 **QSR** - Restaurant Brands International Inc. (Parent of Burger King, Tim Hortons, and Popeyes)
+
 **SBUX** - Starbucks Corporation
+
 **YUM** - Yum! Brands, Inc. (Parent of KFC, Taco Bell, and Pizza Hut)
+
 
 Column Descriptions: Each file likely contains the following columns (standard in Yahoo Finance datasets):
 
 **Date**: The trading date.
+
 **Open**: The price at which the stock opened on a given day.
+
 **High**: The highest price of the stock during the trading session.
+
 **Low**: The lowest price of the stock during the trading session.
+
 **Close**: The price of the stock at market close.
+
 **Adj Close**: The closing price adjusted for dividends and stock splits.
+
 **Volume**: The number of shares traded during the day.
+
 **Purpose**: This dataset can be used to:
 
 
