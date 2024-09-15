@@ -15,6 +15,8 @@
 **YUM** - Yum! Brands, Inc. (Parent of KFC, Taco Bell, and Pizza Hut)
 
 
+
+
 Column Descriptions: Each file likely contains the following columns (standard in Yahoo Finance datasets):
 
 **Date**: The trading date.
